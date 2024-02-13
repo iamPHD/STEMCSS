@@ -1,0 +1,42 @@
+h1,
+h2 {
+    color: blue;
+}
+
+button {
+    color: darkblue;
+    text-shadow: 0cqmax;
+    background-color: aquamarine;
+}
+
+#cancel {
+    color: darkgoldenrod;
+    text-shadow: 0px;
+    background-color: antiquewhite;
+}
+
+.clearance {
+    color: chocolate;
+    font-family: cursive;
+    background-color: burlywood;
+}
+
+section button {
+    color: blueviolet;
+    font-family: Georgia;
+    background-color: chartreuse;
+}
+
+h2+button {
+    color: coral;
+    background-color: blue;
+}
+
+section>a {
+    color: red;
+    text-transform: capitalize;
+}
+
+input[type="password"] {
+    color: greenyellow;
+}

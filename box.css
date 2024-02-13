@@ -1,0 +1,45 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #dda15e;
+}
+
+#one {
+    background-color: #e76f51;
+    border-width: 5px;
+    border-color: #3a86ff;
+    border-style: dashed;
+}
+
+
+#two {
+    background-color: #344e41;
+    background-color: #e76f51;
+    border-width: 5px;
+    border-color: #ccd5ae;
+    border-style: dashed solid;
+    border-left-color: #e76f51;
+    padding: 30px;
+    margin: 10px;
+}
+
+
+#three {
+    background-color: #ffba08;
+
+}
+
+h1 {
+    background-color: #ffba08;
+    display: inline;
+}
+
+h2 {
+    background-color: #e76f51;
+    display: inline;
+}
+
+span {
+    background-color: #3a86ff;
+    display: block;
+}
